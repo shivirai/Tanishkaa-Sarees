@@ -3693,6 +3693,11 @@ SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE
 	max-width: 570px;
 }
 
+
+.w-size29 {
+	min-width: 240px;
+}
+
 /*[ Height Size ]
 ///////////////////////////////////////////////////////////
 */
