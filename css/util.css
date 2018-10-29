@@ -3000,21 +3000,7 @@
 	bottom: 0px;
 }
 
-
-
-
-
-
-
-
-
-/*=========================================================
-TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
-=========================================================*/
-
-/*[ S-Text 0 - 15 ]
-///////////////////////////////////////////////////////////
-*/
+/*==== TEXT ==== */
 .s-text1 {
 	font-family: Montserrat-Regular;
 	font-size: 15px;
@@ -3423,6 +3409,16 @@ TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 	text-transform: uppercase;
 }
 
+.xl-text4 {
+	font-family: Poppins-Bold;
+	font-size: 30px;
+	color: #111111;
+	line-height: 1.2;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
 
 /*[ Color ]
 ///////////////////////////////////////////////////////////
@@ -3447,8 +3443,6 @@ SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE SHAPE
 /*[ Special ]
 ///////////////////////////////////////////////////////////
 */
-
-
 
 /*[ Size ]
 ///////////////////////////////////////////////////////////
